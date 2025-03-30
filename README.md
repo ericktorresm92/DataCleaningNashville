@@ -1,4 +1,4 @@
-#Data Cleansing in SQL
+# Data Cleansing in SQL
 
 ### Dataset link: https://www.kaggle.com/datasets/tmthyjames/nashville-housing-data
 
